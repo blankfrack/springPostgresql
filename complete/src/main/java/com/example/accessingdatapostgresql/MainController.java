@@ -1,4 +1,4 @@
-package com.example.accessingdatapostgrsql;
+package com.example.accessingdatapostgresql;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
