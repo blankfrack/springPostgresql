@@ -1,4 +1,4 @@
-package com.example.accessingdatapostgrsql;
+package com.example.accessingdatapostgresql;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
